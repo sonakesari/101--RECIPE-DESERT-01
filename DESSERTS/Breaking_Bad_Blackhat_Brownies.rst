@@ -1,5 +1,5 @@
 Breaking Bad BlackHat Brownies
-==============================
+*******************************
 
 A nice pick-me-up mocha-ish treat. Versatile. I suggest using the
 strongest most wicked coffee you can. I use Death Wish Coffee, at twice
@@ -7,7 +7,7 @@ the caffeine, but for taste, you may want to use whatever brand you
 prefer tastes better.
 
 Ingredients
------------
+************
 
 -  1/2 Pound Butter Melted (choice of butter here is optional
    salted/unsalted) Also please check and abide by State Laws if adding
@@ -37,7 +37,7 @@ Optional = 1 Cup chopped Nuts of your choice (be mindful of those with
 nut allergies)
 
 Instructions
-------------
+************
 
 1. Preheat Oven to 350 Degrees Fahrenheit (177 Celsius)
 2. Add Cocoa & Water to Butter.
@@ -48,7 +48,7 @@ Instructions
 7. Pour into a greased baking pan of suitable shape.
 
 Making the Frosting:
---------------------
+********************
 
 1. Add Cocoa & Buttermilk to Butter and bring to a boil in a medium
    sauce pan.
